@@ -1,0 +1,11 @@
+ul{
+    list-style-type: none;
+}
+.item{
+float: right;
+margin-left: 30px;
+font-size: 20px;
+}
+i{
+    color: firebrick;
+}

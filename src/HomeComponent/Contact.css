@@ -1,0 +1,106 @@
+.contact {
+    
+    height: 650px;
+  }
+  
+  .contact .form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .contact .text-center{
+    padding-top: 10px;
+    color:black;
+  }
+  .contact .form input::placeholder {
+    font-weight: 800;
+    color: #000;
+  }
+  
+  .contact .form textarea::placeholder {
+    font-weight: 800;
+    color: #000;
+  }
+  
+  .contact .form input {
+    margin: 8px 0;
+    width: 80vw;
+    padding: 10px;
+    align-items: center;
+    border: none;
+    font-family: inherit;
+    font-weight: 700;
+    border-radius: 16px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #000;
+  }
+  
+  .contact .form textarea {
+    margin: 8px 0;
+    width: 80vw;
+    height: 7vw;
+    padding: 10px;
+    align-items: center;
+    border: none;
+    font-family: inherit;
+    font-weight: 700;
+    border-radius: 16px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #000;
+  }
+  
+  .contact .form button {
+    background-color: #1e427c;
+    color:#fff;
+    align-items: center;
+    width: 80vw;
+    padding: 8px;
+    border: 2px solid  #1e427c;
+    border-radius: 12px;
+    margin-top: 5px;
+    font-family: inherit;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: background-color 0.4s;
+    letter-spacing: 2px;
+  }
+  .destinations .grid div {
+    background-color: #f1f1f1;
+    margin: 10px 19px;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  .contact .grid div {
+    background-color: #f1f1f1;
+    margin: 10px 19px;
+    padding: 20px;
+    border-radius: 20px;
+  }
+
+  .destinations .grid div h4 {
+    padding: 10px 0;
+    font-size: 22px;
+  }
+  
+  .contact .grid div h4 {
+    padding: 2px 0;
+    font-size: 22px;
+  }
+  
+  .destinations .grid div p {
+    line-height: 1.8;
+  }
+
+  .travel .overlay {
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
