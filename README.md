@@ -1,38 +1,67 @@
-# Getting Started with Create React App
+<h1>Tourism Application Using React js and bootstrap</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>SCREENSHOTS</h2>
+<h3>HomePage</h3>
+<img src="https://user-images.githubusercontent.com/69752459/135648778-29b01622-13de-41dd-a099-9d6a8293551b.png" width="100%" alt="HomePage" />
 
-## Available Scripts
+<h3>PopularPackages</h3>
+<img src="https://user-images.githubusercontent.com/69752459/135650329-58393c8e-a8b6-4649-8ddb-3b005aa0205d.png" width="100%" alt="HomePage" />
 
-In the project directory, you can run:
+<h3>Login Page</h3>
+<img src="https://user-images.githubusercontent.com/69752459/135650631-f7e9731e-7047-4221-bb0b-71e8d2182e7b.png" width="100%" alt="HomePage" />
 
-### `npm start`
+<h3>Admin DashBoard</h3>
+<img src="https://user-images.githubusercontent.com/69752459/135651029-a23332a8-6ec1-4241-bceb-2230fc2fbaf4.png" width="100%" alt="HomePage" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h3>BookingPage where Customer is logged in</h3>
+<img src="https://user-images.githubusercontent.com/69752459/135651667-e24cf5b2-ebe2-4e5e-aa37-07e1ee5ba2fd.png" width="100%" alt="HomePage" />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h3>##Project Modules</h3>
 
-### `npm test`
+<h4>Customer Module</h4>
+<ul>
+  <li>Customer can signup and login into System.</li>
+  <li>Customer See the Tour Package and Their detail information about each package.</li>
+  <li>Customer can book the packages  by providing the details and can also cancel the pending booking if he wants</li>
+  <li>guide will be assinged to Customer once the booking get approved by Admin</li>
+  <li>Customer can enquiry about the package through the system contact us page.</li>
+  <li>Customer can edit their profile Details</li>
+</ul>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h4>Admin Module</h4>
+<ul>
+  <li>Give username, email, password and your admin account will be created</li>
+  <li>Admin can Manage booking and assigned the guide and can also cancel the booking.</li>
+  <li>Guide will contact Admin for job then Admin can add the guide details into the system</li>
+  <li>Admin can also delete the guide if wants</li>
+  <li>Admin can Add and Delete Package</li>
+</ul>
 
-### `npm run build`
+<h1>How to run this Project</h1>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1)Clone the Project using Following Command
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+git clone https://github.com/SankalpMergu/Tourism-Web-App-FrontEnd.git
 
-### `npm run eject`
+2)Run the Project and using command
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
